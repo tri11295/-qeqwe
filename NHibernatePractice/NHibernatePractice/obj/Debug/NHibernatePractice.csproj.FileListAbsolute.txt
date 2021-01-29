@@ -1,0 +1,21 @@
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\NHibernatePractice.exe.config
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\NHibernatePractice.exe
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\NHibernatePractice.pdb
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\Iesi.Collections.dll
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\NHibernate.dll
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\Iesi.Collections.pdb
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\Iesi.Collections.xml
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\NHibernate.pdb
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\bin\Debug\NHibernate.xml
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.csprojResolveAssemblyReference.cache
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.Form1.resources
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.Properties.Resources.resources
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.csproj.GenerateResource.Cache
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.exe
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.pdb
+D:\Projects\TriNQ_NHibernate\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.Form1.resources
+D:\Projects\TriNQ_NHibernate\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.Properties.Resources.resources
+D:\Projects\TriNQ_NHibernate\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.csproj.GenerateResource.Cache
+D:\Projects\TriNQ_NHibernate\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.exe.licenses
+D:\Projects\TriNQ_NHibernate\NHibernatePractice\NHibernatePractice\obj\Debug\NHibernatePractice.csprojResolveAssemblyReference.cache
+D:\Projects\TriNQ_NHibernate\NHibernatePractice\NHibernatePractice\bin\Debug\NHibernatePractice.exe.config

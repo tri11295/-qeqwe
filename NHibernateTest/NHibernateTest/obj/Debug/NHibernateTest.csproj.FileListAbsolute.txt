@@ -1,0 +1,5 @@
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.Form1.resources
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.Properties.Resources.resources
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.csproj.GenerateResource.Cache
+C:\Users\TriNQ\Documents\Visual Studio 2013\Projects\NHibernateTest\NHibernateTest\bin\Debug\NHibernateTest.exe.config
+D:\Projects\TriNQ_NHibernate\NHibernateTest\NHibernateTest\bin\Debug\NHibernateTest.exe.config
