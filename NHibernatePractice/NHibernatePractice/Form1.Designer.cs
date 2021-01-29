@@ -1,5 +1,5 @@
 ﻿namespace NHibernatePractice
-{
+{111111
 	partial class Form1
 	{
 		/// <summary>
